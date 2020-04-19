@@ -15,12 +15,12 @@ npm install --save visspot-loading
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'visspot-loading'
+import { VisSpotLoading } from 'visspot-loading'
 import 'visspot-loading/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <VisSpotLoading width="130px" message="Please wait 😄" />
   }
 }
 ```
