@@ -9,6 +9,7 @@
 ```bash
 npm install --save visspot-loading
 ```
+Or
 ```bash
 yarn add visspot-loading
 ```
