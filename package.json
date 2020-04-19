@@ -1,6 +1,6 @@
 {
-  "name": "visspot-loading",
-  "version": "1.0.2",
+  "name": "@benchomsang/visspot-loading",
+  "version": "1.0.3",
   "description": "A loading placeholder for VisSpot",
   "author": "1994benc",
   "license": "MIT",
