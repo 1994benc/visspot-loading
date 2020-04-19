@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'visspot-loading'
+import { VisSpotLoading } from 'visspot-loading'
 import 'visspot-loading/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <VisSpotLoading width="130px" message="Please wait 😄" />
 }
 
 export default App
